@@ -12,15 +12,15 @@ if((sceltaPoD == "pari") && (somma % 2==0))
 {
     alert("hai vinto !");
 }
-else if((sceltaPoD == "pari") && (somma % 2 != 0));
+else if((sceltaPoD == "pari") && (somma % 2 != 0))
 {
     alert("hai perso");
 }
- else if((sceltaPoD == "dispari") && (somma % 2 == 0));
+ else if((sceltaPoD == "dispari") && (somma % 2 == 0))
 {
     alert("hai perso");
 }
- else if((sceltaPoD == "dispari") && (somma % 2 != 0));
+ else if((sceltaPoD == "dispari") && (somma % 2 != 0))
 {
     alert("hai vinto");
 }
